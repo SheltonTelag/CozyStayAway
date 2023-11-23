@@ -1,6 +1,12 @@
 
 const FotoApartamento = () => {
-    return <p>Foto del Apartamento</p>
+    return (
+        <div className="App">
+              <button className="FotoApartamento" href="#"> Cambiar Foto
+                
+              </button>
+          </div>
+    );
 }
 
 export default FotoApartamento;
