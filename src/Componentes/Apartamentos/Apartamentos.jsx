@@ -4,10 +4,10 @@ const Apartamentos = () => {
 
     return <>
         <FotoApartamento />
-        <p>Ciudad</p>
-        <p>Calificacion</p>
-        <p>Descricion</p>
-        <p>Precio</p>
+        <Ciudad/>
+        <Calificacion/>
+        <Descricion/>
+        <Precio/>
     </>
 }
 
